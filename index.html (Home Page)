@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Discover Kenya</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <header>
+        <h1>Discover Kenya</h1>
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="about.html">About</a>
+            <a href="destinations.html">Destinations</a>
+            <a href="contact.html">Contact</a>
+        </nav>
+    </header>
+    <main>
+        <section>
+            <h2>Welcome to Kenya!</h2>
+            <p>Explore breathtaking landscapes, vibrant wildlife, and rich culture.</p>
+        </section>
+        <section>
+            <h2>Top Attractions</h2>
+            <div class="grid">
+                <div>
+                    <img src="images/masai-mara.jpg" alt="Masai Mara">
+                    <p>Masai Mara National Reserve</p>
+                </div>
+                <div>
+                    <img src="images/diani-beach.jpg" alt="Diani Beach">
+                    <p>Diani Beach</p>
+                </div>
+                <div>
+                    <img src="images/mount-kenya.jpg" alt="Mount Kenya">
+                    <p>Mount Kenya</p>
+                </div>
+            </div>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Discover Kenya. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
